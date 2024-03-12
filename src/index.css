@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Poppins:wght@300;400&family=Roboto:wght@900&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+  overflow-x: hidden;
+}
+* {
+  padding: 0;
+  margin: 0;
+}

@@ -1,0 +1,353 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "category": "Electronics",
+    "price": 800,
+    "stockQuantity": 20
+  },
+
+  {
+    "id": 2,
+    "name": "Smartphone",
+    "category": "Electronics",
+    "price": 500,
+    "stockQuantity": 30
+  },
+  {
+    "id": 3,
+    "name": "Headphones",
+    "category": "Electronics",
+    "price": 50,
+    "stockQuantity": 100
+  },
+  {
+    "id": 4,
+    "name": "T-shirt",
+    "category": "Clothing",
+    "price": 20,
+    "stockQuantity": 200
+  },
+  {
+    "id": 5,
+    "name": "Jeans",
+    "category": "Clothing",
+    "price": 40,
+    "stockQuantity": 150
+  },
+  {
+    "id": 6,
+    "name": "Backpack",
+    "category": "Accessories",
+    "price": 30,
+    "stockQuantity": 50
+  },
+  {
+    "id": 7,
+    "name": "Watch",
+    "category": "Accessories",
+    "price": 100,
+    "stockQuantity": 80
+  },
+  {
+    "id": 8,
+    "name": "Sunglasses",
+    "category": "Accessories",
+    "price": 25,
+    "stockQuantity": 70
+  },
+  {
+    "id": 9,
+    "name": "Books",
+    "category": "Stationery",
+    "price": 10,
+    "stockQuantity": 300
+  },
+  {
+    "id": 10,
+    "name": "Notebooks",
+    "category": "Stationery",
+    "price": 5,
+    "stockQuantity": 500
+  },
+  {
+    "id": 11,
+    "name": "Printer",
+    "category": "Electronics",
+    "price": 200,
+    "stockQuantity": 15
+  },
+  {
+    "id": 12,
+    "name": "Desk Lamp",
+    "category": "Home & Office",
+    "price": 30,
+    "stockQuantity": 40
+  },
+  {
+    "id": 13,
+    "name": "Running Shoes",
+    "category": "Footwear",
+    "price": 60,
+    "stockQuantity": 100
+  },
+  {
+    "id": 14,
+    "name": "Dress Shirt",
+    "category": "Clothing",
+    "price": 35,
+    "stockQuantity": 120
+  },
+  {
+    "id": 15,
+    "name": "Power Bank",
+    "category": "Electronics",
+    "price": 25,
+    "stockQuantity": 80
+  },
+  {
+    "id": 16,
+    "name": "Kitchen Blender",
+    "category": "Appliances",
+    "price": 50,
+    "stockQuantity": 25
+  },
+  {
+    "id": 17,
+    "name": "Fitness Tracker",
+    "category": "Electronics",
+    "price": 70,
+    "stockQuantity": 60
+  },
+  {
+    "id": 18,
+    "name": "Leather Wallet",
+    "category": "Accessories",
+    "price": 45,
+    "stockQuantity": 90
+  },
+  {
+    "id": 19,
+    "name": "Wireless Mouse",
+    "category": "Electronics",
+    "price": 15,
+    "stockQuantity": 110
+  },
+  {
+    "id": 20,
+    "name": "Gaming Keyboard",
+    "category": "Electronics",
+    "price": 80,
+    "stockQuantity": 30
+  },
+  {
+    "id": 21,
+    "name": "Yoga Mat",
+    "category": "Fitness",
+    "price": 20,
+    "stockQuantity": 70
+  },
+  {
+    "id": 22,
+    "name": "Hiking Backpack",
+    "category": "Outdoor",
+    "price": 70,
+    "stockQuantity": 45
+  },
+  {
+    "id": 23,
+    "name": "Digital Camera",
+    "category": "Electronics",
+    "price": 300,
+    "stockQuantity": 10
+  },
+  {
+    "id": 24,
+    "name": "Pencil Set",
+    "category": "Stationery",
+    "price": 8,
+    "stockQuantity": 200
+  },
+  {
+    "id": 25,
+    "name": "Water Bottle",
+    "category": "Accessories",
+    "price": 12,
+    "stockQuantity": 150
+  },
+  {
+    "id": 26,
+    "name": "Portable Speaker",
+    "category": "Electronics",
+    "price": 40,
+    "stockQuantity": 50
+  },
+  {
+    "id": 27,
+    "name": "Travel Backpack",
+    "category": "Accessories",
+    "price": 60,
+    "stockQuantity": 65
+  },
+  {
+    "id": 28,
+    "name": "Office Chair",
+    "category": "Furniture",
+    "price": 150,
+    "stockQuantity": 20
+  },
+  {
+    "id": 29,
+    "name": "Bluetooth Earbuds",
+    "category": "Electronics",
+    "price": 35,
+    "stockQuantity": 90
+  },
+  {
+    "id": 30,
+    "name": "Tennis Racket",
+    "category": "Sports",
+    "price": 80,
+    "stockQuantity": 40
+  },
+  {
+    "id": 31,
+    "name": "Artificial Plants",
+    "category": "Home Decor",
+    "price": 25,
+    "stockQuantity": 100
+  },
+  {
+    "id": 32,
+    "name": "Wireless Charger",
+    "category": "Electronics",
+    "price": 20,
+    "stockQuantity": 120
+  },
+  {
+    "id": 33,
+    "name": "Dumbbell Set",
+    "category": "Fitness",
+    "price": 50,
+    "stockQuantity": 30
+  },
+  {
+    "id": 34,
+    "name": "Gaming Console",
+    "category": "Electronics",
+    "price": 300,
+    "stockQuantity": 15
+  },
+  {
+    "id": 35,
+    "name": "Travel Mug",
+    "category": "Accessories",
+    "price": 18,
+    "stockQuantity": 80
+  },
+  {
+    "id": 36,
+    "name": "Plant Pot",
+    "category": "Home Decor",
+    "price": 15,
+    "stockQuantity": 120
+  },
+  {
+    "id": 37,
+    "name": "Desk Organizer",
+    "category": "Office Supplies",
+    "price": 25,
+    "stockQuantity": 60
+  },
+  {
+    "id": 38,
+    "name": "Running Shorts",
+    "category": "Fitness",
+    "price": 25,
+    "stockQuantity": 70
+  },
+  {
+    "id": 39,
+    "name": "Cycling Helmet",
+    "category": "Sports",
+    "price": 40,
+    "stockQuantity": 50
+  },
+  {
+    "id": 40,
+    "name": "Hand Sanitizer",
+    "category": "Health & Wellness",
+    "price": 5,
+    "stockQuantity": 200
+  },
+  {
+    "id": 41,
+    "name": "Sweatshirt",
+    "category": "Clothing",
+    "price": 45,
+    "stockQuantity": 60
+  },
+  {
+    "id": 42,
+    "name": "Leather Belt",
+    "category": "Accessories",
+    "price": 30,
+    "stockQuantity": 100
+  },
+  {
+    "id": 43,
+    "name": "Wall Clock",
+    "category": "Home Decor",
+    "price": 20,
+    "stockQuantity": 80
+  },
+  {
+    "id": 44,
+    "name": "Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 50,
+    "stockQuantity": 40
+  },
+  {
+    "id": 45,
+    "name": "Dog Leash",
+    "category": "Pets",
+    "price": 15,
+    "stockQuantity": 120
+  },
+  {
+    "id": 46,
+    "name": "Cookware Set",
+    "category": "Kitchen",
+    "price": 100,
+    "stockQuantity": 25
+  },
+  {
+    "id": 47,
+    "name": "Resistance Bands",
+    "category": "Fitness",
+    "price": 20,
+    "stockQuantity": 80
+  },
+  {
+    "id": 48,
+    "name": "Tea Infuser",
+    "category": "Kitchen",
+    "price": 10,
+    "stockQuantity": 150
+  },
+  {
+    "id": 49,
+    "name": "Travel Pillow",
+    "category": "Travel",
+    "price": 15,
+    "stockQuantity": 70
+  },
+  {
+    "id": 50,
+    "name": "Essential Oils",
+    "category": "Health & Wellness",
+    "price": 30,
+    "stockQuantity": 90
+  }
+]
