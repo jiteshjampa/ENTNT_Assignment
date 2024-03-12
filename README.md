@@ -10,12 +10,16 @@
 
 <h2>Project Screenshots:</h2>
 
+<h4>Dashboard</h4>
 <img src="https://snipboard.io/8g7Bm5.jpg" alt="project-screenshot" width="800px" height="1000px/">
 <br/><br/>
+<h4>Order Management</h4>
 <img src="https://snipboard.io/dMTx1r.jpg" alt="project-screenshot" width="1000px" height="400/">
 <br/><br/>
+<h4>Product Management</h4>
 <img src="https://snipboard.io/Ri6XJh.jpg" alt="project-screenshot" width="1000px" height="400/">
 <br/><br/>
+<h4>Order Calender View</h4>
 <img src="https://snipboard.io/zAfmvB.jpg" alt="project-screenshot" width="800px" height="1000px/">
 <br/><br/>
   
