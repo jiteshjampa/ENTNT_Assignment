@@ -44,7 +44,7 @@ Here're some of the project's best features:
 
 <h2>🛠️ Installation Steps:</h2>
 
-<p>1. Clone frontend repository</p>
+<p>1. Clone  repository</p>
 
 ```
 git clone  https://github.com/jiteshjampa/ENTNT_Assignment.git
