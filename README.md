@@ -1,70 +1,81 @@
-# Getting Started with Create React App
+<h1 align="center" id="title">Enterprise resource planning - System</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center"><img src="https://socialify.git.ci/jiteshjampa/ENTNT_Assignment/image?description=1&amp;descriptionEditable=An%20ERP%20project%20integrates%20software%20to%20streamline%20business%20processes%20across%20multiple%20areas%20within%20an%20organization.&amp;font=Inter&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Solid&amp;stargazers=1&amp;theme=Dark" alt="project-image"></p>
 
-## Available Scripts
+<p id="description">An Enterprise Resource Planning (ERP) system project involves the implementation or upgrade of an integrated software solution designed to manage and streamline various business processes within an organization. These systems are typically comprehensive and cover multiple functional areas such as finance human resources supply chain management manufacturing sales and customer relationship management.</p>
 
-In the project directory, you can run:
+<h2>🚀 Demo</h2>
 
-### `npm start`
+[https://entnt-assignment-five.vercel.app/](https://entnt-assignment-five.vercel.app/)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<h2>Project Screenshots:</h2>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<img src="https://snipboard.io/8g7Bm5.jpg" alt="project-screenshot" width="1000px" height="400/">
+<br/>
+<br/>
+<img src="https://snipboard.io/dMTx1r.jpg" alt="project-screenshot" width="1000px" height="400/">
+<br/>
+<br/>
+<img src="https://snipboard.io/Ri6XJh.jpg" alt="project-screenshot" width="1000px" height="400/">
+<br/>
+<br/>
+<img src="https://snipboard.io/zAfmvB.jpg" alt="project-screenshot" width="1000px" height="400/">
+<br/>
+<br/>
+  
+  
+<h2>🧐 Features</h2>
 
-### `npm test`
+Here're some of the project's best features:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+*   Dashboard displays key metrics such as total revenue orders products and pending orders.
+*   It calculates metrics dynamically using data from JSON files (product.json and order.json).
+*   Summary graphs or charts visualize order status and top-selling products.
+*   Navigation links facilitate movement to different sections of the application
+*   Product Management enables viewing searching editing adding and deleting products.
+*   Data persistence is ensured using local storage for product information.
+*   Order Management allows viewing searching editing and deleting orders
+*   It also supports adding new orders with relevant details
+*   Responsive design ensures the application works seamlessly across various devices
+*   Calendar View of Orders displays orders within a selected date range
+*   Users can filter orders by specifying start and end dates
+*   Modals are used for adding and editing products/orders providing a user-friendly interface
+*   The footer section includes company information and links to About Us and Privacy Policy pages
 
-### `npm run build`
+<h2>🛠️ Installation Steps:</h2>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<p>1. Clone frontend repository</p>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```
+git clone  https://github.com/jiteshjampa/ENTNT_Assignment.git
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<p>2. move the one terminal to project directory</p>
 
-### `npm run eject`
+```
+cd erp-app
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<p>3. Install dependencies</p>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```
+npm install
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<p>4. Run server</p>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```
+npm start
+```
 
-## Learn More
+  
+  
+<h2>💻 Built with</h2>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Technologies used in the project:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+*   HTML
+*   TAILWIND CSS
+*   JAVASCRIPT
+*   REACT
+*   JSON
