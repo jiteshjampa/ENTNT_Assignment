@@ -41,6 +41,7 @@ Here're some of the project's best features:
 *   Users can filter orders by specifying start and end dates
 *   Modals are used for adding and editing products/orders providing a user-friendly interface
 *   The footer section includes company information and links to About Us and Privacy Policy pages
+*   Implemented React Router
 
 <h2>🛠️ Installation Steps:</h2>
 
