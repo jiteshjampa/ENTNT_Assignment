@@ -10,18 +10,14 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://snipboard.io/8g7Bm5.jpg" alt="project-screenshot" width="1000px" height="400/">
-<br/>
-<br/>
+<img src="https://snipboard.io/8g7Bm5.jpg" alt="project-screenshot" width="400" height="400/">
+<br/><br/>
 <img src="https://snipboard.io/dMTx1r.jpg" alt="project-screenshot" width="1000px" height="400/">
-<br/>
-<br/>
+<br/><br/>
 <img src="https://snipboard.io/Ri6XJh.jpg" alt="project-screenshot" width="1000px" height="400/">
-<br/>
-<br/>
+<br/><br/>
 <img src="https://snipboard.io/zAfmvB.jpg" alt="project-screenshot" width="1000px" height="400/">
-<br/>
-<br/>
+<br/><br/>
   
   
 <h2>🧐 Features</h2>
