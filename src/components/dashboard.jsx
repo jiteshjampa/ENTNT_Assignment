@@ -30,7 +30,7 @@ const Dashboard = () => {
   const totalpending = calculateTotalPendingOrders();
 
   return (
-    <div id="about1">
+    <div id="about1" className=" overflow-x-hidden">
       <About />
       <div>
         <div className="flex flex-wrap justify-evenly">
