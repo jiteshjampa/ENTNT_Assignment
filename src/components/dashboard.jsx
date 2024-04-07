@@ -77,10 +77,10 @@ const Dashboard = () => {
         </div>
         <div className="flex flex-wrap justify-evenly items-center m-6">
           <div className="flex flex-col md:flex-row">
-            <div className="w-full md:w-68 h-82 bg-white p-7 flex justify-center items-center rounded-lg m-5">
+            <div className="w-full p:w-1/2 h-82 bg-white p-7 flex justify-center items-center rounded-lg m-5">
               <OrderStatusSummary />
             </div>
-            <div className="w-full md:w-68 h-82 bg-white p-7 flex justify-center items-center rounded-lg m-5">
+            <div className="w-full p:w-1/2 h-82 bg-white p-7 flex justify-center items-center rounded-lg m-5">
               <TopFiveProducts />
             </div>
           </div>
