@@ -31,7 +31,7 @@ const Dashboard = () => {
 
   return (
     <div id="about1" className=" overflow-x-hidden">
-      <About />
+     
       <div>
         <div className="flex flex-wrap justify-evenly">
           <div className="bg-white flex w-full md:w-52 p-6 rounded-lg justify-evenly m-6">
